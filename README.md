@@ -10,10 +10,7 @@ This project aims to track and visualize network traffic using Wireshark for pac
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Technologies Used
 
@@ -63,4 +60,6 @@ Scapy for network packet manipulation.
 You can create a file named `README.md` in your project directory and copy this content into it. Let me know if you need any more assistance!
 
 ![image](https://github.com/user-attachments/assets/824201f8-1824-468c-82e9-7c24206be139)
+![image](https://github.com/user-attachments/assets/6b0e1203-9f3f-478a-8255-bbdf1e713a97)
+
 
