@@ -64,9 +64,6 @@ You can create a file named `README.md` in your project directory and copy this 
 ![image](https://github.com/user-attachments/assets/5f818e32-6293-45d9-a62f-f34932d35166)
 ![image](https://github.com/user-attachments/assets/e8f203c0-39f2-40c3-95e0-2a214f969ec5)
 ![image](https://github.com/user-attachments/assets/9141c78f-72fc-4f36-a03f-dd09ed5b1a08)
-
-
 ![image](https://github.com/user-attachments/assets/824201f8-1824-468c-82e9-7c24206be139)
-![image](https://github.com/user-attachments/assets/6b0e1203-9f3f-478a-8255-bbdf1e713a97)
 
 
